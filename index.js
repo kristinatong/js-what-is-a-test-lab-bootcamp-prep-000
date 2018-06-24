@@ -7,4 +7,4 @@ module.exports = {name, height, message}
 
 name = 'Susan'
 height = height - 40
-message = ''
+message = `${name} is ${height} inches tall`
